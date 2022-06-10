@@ -1,4 +1,4 @@
-<h1>Nessus Essentials: Credential Scan</h1>
+<h1>Nessus Essentials</h1>
 
 <h2>Description</h2>
 This project will demonstrate how important vulnerability scanning is. I will be using Nessus Essentials to run a credential scan.
