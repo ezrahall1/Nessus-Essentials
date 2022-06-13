@@ -32,6 +32,7 @@ These are my results from the credential scan.
 <img src="https://i.imgur.com/JTxjJSZ.png" height="80%" width="80%" alt="Image 3"/>
 
 As you can see from the vulnerabilities tab, the results are broken down into various sections such as critical, mixed, medium and info. 
+
 <img src="https://i.imgur.com/2fKrUaL.png" height="80%" width="80%" alt="Image 4"/>
 
 The remediations tab provides advise on the vulnerabilities.
