@@ -62,7 +62,8 @@ As you can see the vulnerabilities are lower than the previous scan and there ar
 <img src="https://i.imgur.com/BrhPYYJ.png" height="80%" width="80%" alt="Image 10"/>
 
 <h2>Learning Outcome</h2>
-From completing this project, I understood that vulnerability management consists of continuously assessing assets in discovering vulnerabilities remediating them to an acceptable risk and then starting the process over again making sure the risk is low or at least acceptable level. 
+From completing this project, I understood that vulnerability management consists of continuously assessing assets in discovering vulnerabilities remediating them to an acceptable risk and then starting the process over again making sure the risk is low or at least acceptable level.
+
 Nessus Essentials allows you to scan your personal home network with the same high-speed, in-depth assessments and agentless scanning convenience that Nessus subscribe enjoy.
 
 
