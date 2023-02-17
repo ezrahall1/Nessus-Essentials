@@ -24,6 +24,7 @@ Once you have logged in to your VMware Workstation and Nessus Essentials. You wo
 <img src="https://i.imgur.com/h8FA0iq.png" height="80%" width="80%" alt="Image 1"/>
 
 The next step is to click on the launch button in order to start the scan. To find out what vulnerability there are on the VMware Workstation.
+
 <img src="https://i.imgur.com/fylrxW3.png" width="80%" alt="Image 2"/>
 
 
