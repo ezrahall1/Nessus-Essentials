@@ -61,9 +61,5 @@ As you can see the vulnerabilities are lower than the previous scan and there ar
 <img src="https://i.imgur.com/BrhPYYJ.png" height="80%" width="80%" alt="Image 10"/>
 
 <h2>Learning Outcome</h2>
-From completing this project, I understood that vulnerability management consists of continuously assessing assets in discovering vulnerabilities remediating them to an acceptable risk and then starting the process over again making sure the risk is low or at least acceptable level.
-
-Nessus Essentials allows you to scan your personal home network with the same high-speed, in-depth assessments and agentless scanning convenience that Nessus subscribe enjoy.
-
-
+Through the completion of this project, I've gained an understanding that vulnerability management involves the ongoing assessment of assets, identifying vulnerabilities, and remediation to maintain an acceptable risk level. This iterative process ensures that risks are consistently kept low or within acceptable thresholds. Notably, Nessus Essentials facilitates this by enabling users to conduct high-speed, thorough assessments of their personal home networks. It offers the same level of in-depth analysis and the convenience of agentless scanning enjoyed by subscribers of the full Nessus product.
 </p>
