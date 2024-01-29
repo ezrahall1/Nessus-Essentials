@@ -1,9 +1,7 @@
 <h1>Nessus Essentials</h1>
 
 <h2>Description</h2>
-Nessus is a remote security scanning tool, which scans a computer and raises an alert if it discovers any vulnerabilities that malicious hackers could use to gain access to any computer you have connected to a network. It does this by running over 1200 checks on a given computer, testing to see if any of these attacks could be used to break into the computer or otherwise harm it.
-
-This project will demonstrate how to run a credential scan using Nessus Essentials and showcase what to do with the vulnerabilities found in order to make your system secure.
+Nessus functions as a remote security scanning tool, diligently examining computers for potential vulnerabilities that could be exploited by malicious hackers to gain unauthorized access to connected networked systems. Employing over 1200 checks, Nessus scrutinizes a computer's security posture, identifying any potential threats that may compromise its integrity. This project will guide users through the process of executing a credential scan using Nessus Essentials. Additionally, it will provide insights into effectively addressing and mitigating the vulnerabilities uncovered, empowering users to enhance the security of their systems.
 <br />
 
 
